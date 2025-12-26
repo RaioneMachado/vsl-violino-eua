@@ -204,7 +204,7 @@ const Index = () => {
                 </p>
                 <div className="relative inline-block">
                   <p className="text-7xl md:text-8xl font-black text-accent glow-text-green mb-4 font-display animate-pulse">
-                    $ 19,90<span className="text-4xl md:text-5xl">,00</span>
+                    $ 19<span className="text-4xl md:text-5xl">,00</span>
                   </p>
                   <div className="absolute -top-4 -right-4 bg-primary text-primary-foreground text-sm font-bold px-3 py-1 rounded-full rotate-12 animate-bounce">
                     60% OFF
