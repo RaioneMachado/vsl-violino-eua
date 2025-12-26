@@ -200,11 +200,11 @@ const Index = () => {
             <div className="max-w-2xl mx-auto bg-gradient-to-br from-accent/20 via-primary/20 to-accent/10 backdrop-blur-sm border-4 border-accent/50 rounded-3xl p-8 md:p-12 glow-green shadow-2xl animate-scale-in">
               <div className="text-center mb-8">
                 <p className="text-red-500 text-lg mb-2 line-through">
-                  from R$ 197<span className="text-sm">,00</span>
+                  from $ 99<span className="text-sm">,00</span>
                 </p>
                 <div className="relative inline-block">
                   <p className="text-7xl md:text-8xl font-black text-accent glow-text-green mb-4 font-display animate-pulse">
-                    $ 67<span className="text-4xl md:text-5xl">,00</span>
+                    $ 19,90<span className="text-4xl md:text-5xl">,00</span>
                   </p>
                   <div className="absolute -top-4 -right-4 bg-primary text-primary-foreground text-sm font-bold px-3 py-1 rounded-full rotate-12 animate-bounce">
                     60% OFF
