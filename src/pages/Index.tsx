@@ -56,7 +56,7 @@ const Index = () => {
               </h3>
               <div className="aspect-video w-full overflow-hidden rounded-2xl">
                 <iframe
-                  src="https://player-vz-03224ce4-c55.tv.pandavideo.com.br/embed/?v=1d9e6102-a94d-4f44-ad66-98ae1e5851d8"
+                  src="https://player-vz-03224ce4-c55.tv.pandavideo.com.br/embed/?v=8e5de0d9-dff8-4441-a18b-a34009c1f3f5"
                   className="w-full h-full border-0"
                   allowFullScreen
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
