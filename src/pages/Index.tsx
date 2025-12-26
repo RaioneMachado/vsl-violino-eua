@@ -142,34 +142,34 @@ const Index = () => {
             </div>
           </section>
 
-          {/* Social Proof */}
-          <section id="depoimentos" className="mb-20 scroll-mt-32">
-            <h2 className="text-3xl md:text-5xl font-bold text-center text-foreground mb-4 font-display">
-              What our <span className="text-primary glow-text-blue">violinists</span> say
-            </h2>
+{/* Social Proof */}
+<section id="depoimentos" className="mb-20 scroll-mt-32">
+  <h2 className="text-3xl md:text-5xl font-bold text-center text-foreground mb-4 font-display">
+    What our <span className="text-primary glow-text-blue">violinists</span> say
+  </h2>
 
-            <p className="text-center text-muted-foreground mb-12 text-lg">
-              <span className="font-bold text-foreground">Hundreds of violinists and musicians of instruments in C</span> have already transformed their performances
-            </p>
+  <p className="text-center text-muted-foreground mb-12 text-lg">
+    <span className="font-bold text-foreground">Hundreds of violinists and musicians of instruments in C</span> have already transformed their performances
+  </p>
 
-            <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div className="bg-card/50 backdrop-blur-sm border border-primary/20 rounded-2xl p-6 glow-blue">
-                <img
-                  src="https://videopartituras.com/wp-content/uploads/2025/01/IMG_5024-768x1017.jpg"
-                  alt="Violinist testimonial"
-                  className="w-full rounded-lg"
-                />
-              </div>
+  <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+    <div className="bg-card/50 backdrop-blur-sm border border-primary/20 rounded-2xl p-6 glow-blue">
+      <img
+        src="/depoimento-1.png"
+        alt="Violinist testimonial"
+        className="w-full rounded-lg"
+      />
+    </div>
 
-              <div className="bg-card/50 backdrop-blur-sm border border-primary/20 rounded-2xl p-6 glow-blue">
-                <img
-                  src="/depoimento-2.png"
-                  alt="Violinist testimonial"
-                  className="w-full rounded-lg"
-                />
-              </div>
-            </div>
-          </section>
+    <div className="bg-card/50 backdrop-blur-sm border border-primary/20 rounded-2xl p-6 glow-blue">
+      <img
+        src="/depoimento-2.png"
+        alt="Violinist testimonial"
+        className="w-full rounded-lg"
+      />
+    </div>
+  </div>
+</section>
 
           {/* Guarantee Section */}
           <section className="mb-20 bg-card/50 backdrop-blur-sm border border-accent/30 rounded-3xl p-8 md:p-12 glow-green">
