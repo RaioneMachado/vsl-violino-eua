@@ -244,7 +244,7 @@ const Index = () => {
 
               <div className="text-center">
                 <CTAButton href="https://pay.hotmart.com/V103532339C?off=9emqkdv0&checkoutMode=10" size="xl">
-                  Click Here and Take Advantage of the Offer!
+                  Click Here Now
                 </CTAButton>
               </div>
 
